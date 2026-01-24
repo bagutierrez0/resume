@@ -5,3 +5,6 @@
 *.log
 *.out
 *.synctex.gz
+
+# personal information files
+information/*
